@@ -1,0 +1,137 @@
+{
+  "id": "whoqol_old",
+  "title": "WHOQOL-OLD Quality of Life (16-item)",
+  "items": [
+    {
+      "id": "q1",
+      "text_key": "whoqol_item_1",
+      "reverse": false
+    },
+    {
+      "id": "q2",
+      "text_key": "whoqol_item_2",
+      "reverse": false
+    },
+    {
+      "id": "q3",
+      "text_key": "whoqol_item_3",
+      "reverse": false
+    },
+    {
+      "id": "q4",
+      "text_key": "whoqol_item_4",
+      "reverse": false
+    },
+    {
+      "id": "q5",
+      "text_key": "whoqol_item_5",
+      "reverse": true
+    },
+    {
+      "id": "q6",
+      "text_key": "whoqol_item_6",
+      "reverse": true
+    },
+    {
+      "id": "q7",
+      "text_key": "whoqol_item_7",
+      "reverse": false
+    },
+    {
+      "id": "q8",
+      "text_key": "whoqol_item_8",
+      "reverse": false
+    },
+    {
+      "id": "q9",
+      "text_key": "whoqol_item_9",
+      "reverse": false
+    },
+    {
+      "id": "q10",
+      "text_key": "whoqol_item_10",
+      "reverse": false
+    },
+    {
+      "id": "q11",
+      "text_key": "whoqol_item_11",
+      "reverse": false
+    },
+    {
+      "id": "q12",
+      "text_key": "whoqol_item_12",
+      "reverse": false
+    },
+    {
+      "id": "q13",
+      "text_key": "whoqol_item_13",
+      "reverse": false
+    },
+    {
+      "id": "q14",
+      "text_key": "whoqol_item_14",
+      "reverse": false
+    },
+    {
+      "id": "q15",
+      "text_key": "whoqol_item_15",
+      "reverse": false
+    },
+    {
+      "id": "q16",
+      "text_key": "whoqol_item_16",
+      "reverse": true
+    }
+  ],
+  "options": [
+    {
+      "id": "opt1",
+      "label_key": "whoqol_opt_1",
+      "score": 1
+    },
+    {
+      "id": "opt2",
+      "label_key": "whoqol_opt_2",
+      "score": 2
+    },
+    {
+      "id": "opt3",
+      "label_key": "whoqol_opt_3",
+      "score": 3
+    },
+    {
+      "id": "opt4",
+      "label_key": "whoqol_opt_4",
+      "score": 4
+    },
+    {
+      "id": "opt5",
+      "label_key": "whoqol_opt_5",
+      "score": 5
+    }
+  ],
+  "scoring": {
+    "bands": [
+      {
+        "min": 16,
+        "max": 32,
+        "label": "Poor quality of life"
+      },
+      {
+        "min": 33,
+        "max": 48,
+        "label": "Moderate quality of life"
+      },
+      {
+        "min": 49,
+        "max": 64,
+        "label": "Good quality of life"
+      },
+      {
+        "min": 65,
+        "max": 80,
+        "label": "Excellent quality of life"
+      }
+    ]
+  }
+}

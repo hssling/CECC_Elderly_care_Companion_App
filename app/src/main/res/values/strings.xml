@@ -1,0 +1,238 @@
+<resources>
+<string name="app_name">CECC Care Companion</string>
+<string name="navigation_home">Home</string>
+<string name="navigation_tools">Tools</string>
+<string name="navigation_forms">Forms</string>
+<string name="navigation_help">Help</string>
+<string name="navigation_learn">Learn</string>
+<string name="navigation_sessions">Sessions</string>
+<string name="consent_title">Consent &amp; Privacy</string>
+<string name="consent_text">By using this app, you agree to the collection and storage of assessment data for research purposes. All data is kept confidential and used only for elder care support programs. You can request data deletion at any time.</string>
+<string name="privacy_title">Privacy Policy</string>
+<string name="privacy_text">We collect only necessary assessment data to provide elder care support. Data is stored locally on your device and optionally synced to secure cloud storage. We do not share personal information with third parties without consent.</string>
+<string name="staff_pin_title">Staff Access</string>
+<string name="staff_pin_hint">Enter PIN</string>
+<string name="biometric_prompt">Authenticate to access staff features</string>
+<string name="sync_title">Data Sync</string>
+<string name="sync_status">Sync Status</string>
+<string name="sync_now">Sync Now</string>
+<string name="last_sync">Last Sync</string>
+<string name="never_synced">Never Synced</string>
+<string name="uploading">Uploading...</string>
+<string name="upload_success">Upload Successful</string>
+<string name="upload_failed">Upload Failed</string>
+<string name="choose_folder">Choose Folder</string>
+<string name="drive_folder">Google Drive Folder</string>
+<string name="select_drive_folder">Select Google Drive Folder</string>
+<string name="folder_selected">Folder Selected</string>
+<string name="no_folder_selected">No Folder Selected</string>
+<string name="offline_content">Offline Content</string>
+<string name="download_content">Download Content</string>
+<string name="content_downloaded">Content Downloaded</string>
+<string name="download_failed">Download Failed</string>
+<string name="language_pack">Language Pack</string>
+<string name="download_language_pack">Download Language Pack</string>
+<string name="language_pack_downloaded">Language Pack Downloaded</string>
+<string name="no_internet">No Internet Connection</string>
+<string name="retry">Retry</string>
+<string name="cancel">Cancel</string>
+<string name="ok">OK</string>
+<string name="yes">Yes</string>
+<string name="no">No</string>
+<string name="save">Save</string>
+<string name="submit">Submit</string>
+<string name="next">Next</string>
+<string name="previous">Previous</string>
+<string name="finish">Finish</string>
+<string name="loading">Loading...</string>
+<string name="error">Error</string>
+<string name="success">Success</string>
+<string name="warning">Warning</string>
+<string name="info">Information</string>
+<string name="settings">Settings</string>
+<string name="about">About</string>
+<string name="version">Version</string>
+<string name="license">MIT License</string>
+<string name="developed_by">Developed by CECC Team</string>
+<string name="contact">Contact</string>
+<string name="feedback">Feedback</string>
+<string name="rate_app">Rate App</string>
+<string name="share_app">Share App</string>
+<string name="exit">Exit</string>
+
+<!-- Screener Items -->
+<!-- UCLA-3 Items -->
+<string name="ucla3_item_1">How often do you feel that you are "in tune" with the people around you?</string>
+<string name="ucla3_item_2">How often do you feel that you lack companionship?</string>
+<string name="ucla3_item_3">How often do you feel that there is no one you can turn to?</string>
+
+<!-- GDS-15 Items -->
+<string name="gds15_item_1">Are you basically satisfied with your life?</string>
+<string name="gds15_item_2">Have you dropped many of your activities and interests?</string>
+<string name="gds15_item_3">Do you feel that your life is empty?</string>
+<string name="gds15_item_4">Do you often get bored?</string>
+<string name="gds15_item_5">Are you in good spirits most of the time?</string>
+<string name="gds15_item_6">Are you afraid that something bad is going to happen to you?</string>
+<string name="gds15_item_7">Do you feel happy most of the time?</string>
+<string name="gds15_item_8">Do you often feel helpless?</string>
+<string name="gds15_item_9">Do you prefer to stay at home, rather than going out and doing new things?</string>
+<string name="gds15_item_10">Do you feel you have more problems with memory than most?</string>
+<string name="gds15_item_11">Do you think it is wonderful to be alive now?</string>
+<string name="gds15_item_12">Do you feel pretty worthless the way you are now?</string>
+<string name="gds15_item_13">Do you feel full of energy?</string>
+<string name="gds15_item_14">Do you feel that your situation is hopeless?</string>
+<string name="gds15_item_15">Do you think that most people are better off than you are?</string>
+
+<!-- Zarit-12 Items -->
+<string name="zarit12_item_1">Do you feel that your relative asks for more help than he/she needs?</string>
+<string name="zarit12_item_2">Do you feel that because of the time you spend with your relative that you don\'t have enough time for yourself?</string>
+<string name="zarit12_item_3">Do you feel stressed between caring for your relative and trying to meet other responsibilities (work/family)?</string>
+<string name="zarit12_item_4">Do you feel embarrassed over your relative\'s behavior?</string>
+<string name="zarit12_item_5">Do you feel angry when you are around your relative?</string>
+<string name="zarit12_item_6">Do you feel that your relative currently affects your relationship with family and friends in a negative way?</string>
+<string name="zarit12_item_7">Are you afraid what the future holds for your relative?</string>
+<string name="zarit12_item_8">Do you feel your relative is dependent on you?</string>
+<string name="zarit12_item_9">Do you feel strained when you are around your relative?</string>
+<string name="zarit12_item_10">Do you feel your health has suffered because of your involvement with your relative?</string>
+<string name="zarit12_item_11">Do you feel that you don\'t have as much privacy as you would like because of your relative?</string>
+<string name="zarit12_item_12">Do you feel that your social life has suffered because you are caring for your relative?</string>
+
+<!-- PSS-10 Items -->
+<string name="pss10_item_1">In the last month, how often have you been upset because of something that happened unexpectedly?</string>
+<string name="pss10_item_2">In the last month, how often have you felt that you were unable to control the important things in your life?</string>
+<string name="pss10_item_3">In the last month, how often have you felt nervous and "stressed"?</string>
+<string name="pss10_item_4">In the last month, how often have you felt confident about your ability to handle your personal problems?</string>
+<string name="pss10_item_5">In the last month, how often have you felt that things were going your way?</string>
+<string name="pss10_item_6">In the last month, how often have you found that you could not cope with all the things that you had to do?</string>
+<string name="pss10_item_7">In the last month, how often have you been able to control irritations in your life?</string>
+<string name="pss10_item_8">In the last month, how often have you felt that you were on top of things?</string>
+<string name="pss10_item_9">In the last month, how often have you been angered because of things that were outside of your control?</string>
+<string name="pss10_item_10">In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?</string>
+
+<!-- ADL/IADL Items -->
+<string name="adl_iadl_item_1">Bathing</string>
+<string name="adl_iadl_item_2">Dressing</string>
+<string name="adl_iadl_item_3">Toileting</string>
+<string name="adl_iadl_item_4">Transferring</string>
+<string name="adl_iadl_item_5">Continence</string>
+<string name="adl_iadl_item_6">Feeding</string>
+<string name="adl_iadl_item_7">Using telephone</string>
+<string name="adl_iadl_item_8">Managing medications</string>
+
+<!-- DUKE-UNC Items -->
+<string name="duke_unc_item_1">Does anyone visit you at home?</string>
+<string name="duke_unc_item_2">Do you have someone who shows you love and affection?</string>
+<string name="duke_unc_item_3">Is there someone available to you whom you can count on to listen to you when you need to talk?</string>
+<string name="duke_unc_item_4">Is there someone available to give you good advice about a problem?</string>
+<string name="duke_unc_item_5">Is there someone available to you who shows you love and affection?</string>
+<string name="duke_unc_item_6">Can you count on anyone to provide you with emotional support (talking over problems or helping you make a difficult decision)?</string>
+<string name="duke_unc_item_7">Do you have as much contact as you would like with someone you feel close to, someone in whom you can confide?</string>
+<string name="duke_unc_item_8">Do you have someone who makes you feel loved and cared for?</string>
+
+<!-- Common Options -->
+<string name="opt_1">Never</string>
+<string name="opt_2">Sometimes</string>
+<string name="opt_3">Often</string>
+<string name="opt_yes">Yes</string>
+<string name="opt_no">No</string>
+<string name="opt_dependent">Dependent</string>
+<string name="opt_independent">Independent</string>
+<string name="opt_needs_help">Needs Help</string>
+<string name="strongly_disagree">Strongly Disagree</string>
+<string name="disagree">Disagree</string>
+<string name="neutral">Neutral</string>
+<string name="agree">Agree</string>
+<string name="strongly_agree">Strongly Agree</string>
+
+<!-- UCLA Options -->
+<string name="ucla_opt_1">Never</string>
+<string name="ucla_opt_2">Rarely</string>
+<string name="ucla_opt_3">Sometimes</string>
+<string name="ucla_opt_4">Often</string>
+
+<!-- GDS Options -->
+<string name="gds_opt_yes">Yes</string>
+<string name="gds_opt_no">No</string>
+
+<!-- Zarit Options -->
+<string name="zarit_opt_0">Never</string>
+<string name="zarit_opt_1">Rarely</string>
+<string name="zarit_opt_2">Sometimes</string>
+<string name="zarit_opt_3">Quite frequently</string>
+<string name="zarit_opt_4">Nearly always</string>
+
+<!-- PSS Options -->
+<string name="pss_opt_0">Never</string>
+<string name="pss_opt_1">Almost never</string>
+<string name="pss_opt_2">Sometimes</string>
+<string name="pss_opt_3">Fairly often</string>
+<string name="pss_opt_4">Very often</string>
+
+<!-- ADL Options -->
+<string name="adl_opt_independent">Independent</string>
+<string name="adl_opt_dependent">Dependent</string>
+
+<!-- DUKE Options -->
+<string name="duke_opt_1">Much less than I would like</string>
+<string name="duke_opt_2">Less than I would like</string>
+<string name="duke_opt_3">About as much as I would like</string>
+<string name="duke_opt_4">More than I would like</string>
+<string name="duke_opt_5">Much more than I would like</string>
+
+<!-- WHOQOL-OLD Items -->
+<string name="whoqol_item_1">To what extent do you feel your life to be meaningful?</string>
+<string name="whoqol_item_2">How well are you able to concentrate?</string>
+<string name="whoqol_item_3">How healthy is your physical environment?</string>
+<string name="whoqol_item_4">How satisfied are you with your personal relationships?</string>
+<string name="whoqol_item_5">To what extent do you feel that physical pain prevents you from doing what you need to do?</string>
+<string name="whoqol_item_6">How much do you need any medical treatment to function in your daily life?</string>
+<string name="whoqol_item_7">How much do you enjoy life?</string>
+<string name="whoqol_item_8">To what extent do you feel your life to be meaningful?</string>
+<string name="whoqol_item_9">How well are you able to accept your bodily appearance?</string>
+<string name="whoqol_item_10">How satisfied are you with your sex life?</string>
+<string name="whoqol_item_11">How satisfied are you with the support you get from your friends?</string>
+<string name="whoqol_item_12">How satisfied are you with your living conditions?</string>
+<string name="whoqol_item_13">How well are you able to perform your daily living activities?</string>
+<string name="whoqol_item_14">How satisfied are you with yourself?</string>
+<string name="whoqol_item_15">How satisfied are you with your capacity for work?</string>
+<string name="whoqol_item_16">How much are you bothered by any illness, aches, pains, discomfort, or side effects from treatment?</string>
+
+<!-- WHOQOL-OLD Options -->
+<string name="whoqol_opt_1">Not at all / Very dissatisfied / Very poor</string>
+<string name="whoqol_opt_2">A little / Dissatisfied / Poor</string>
+<string name="whoqol_opt_3">A moderate amount / Neither satisfied nor dissatisfied / Neither good nor poor</string>
+<string name="whoqol_opt_4">Very much / Satisfied / Good</string>
+<string name="whoqol_opt_5">An extreme amount / Very satisfied / Very good</string>
+
+<!-- Social Capital Items -->
+<string name="social_capital_item_1a">Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?</string>
+<string name="social_capital_item_1b">How much do you trust your neighbors?</string>
+<string name="social_capital_item_1c">How much do you trust people in your village/ward?</string>
+<string name="social_capital_item_2a">How many close friends do you have whom you can count on in times of need?</string>
+<string name="social_capital_item_2b">How many relatives (outside your household) do you have regular contact with?</string>
+<string name="social_capital_item_2c">In the past month, how often have you participated in community meetings/events?</string>
+<string name="social_capital_item_3a">Are you a member of any local groups or organizations?</string>
+<string name="social_capital_item_3b">In the past year, have you volunteered your time for community activities?</string>
+<string name="social_capital_item_3c">Do you participate in village/ward development activities?</string>
+<string name="social_capital_item_4a">People in this village/ward are willing to help their neighbors</string>
+<string name="social_capital_item_4b">People in this village/ward generally get along with each other</string>
+<string name="social_capital_item_4c">People in this village/ward can be trusted to keep their promises</string>
+<string name="social_capital_item_5a">How would you rate the level of community participation in local events?</string>
+<string name="social_capital_item_5b">Are there formal or informal leaders in your community who help resolve disputes?</string>
+<string name="social_capital_item_5c">How often do community members work together to solve local problems?</string>
+<string name="social_capital_item_6a1">In your village/ward, how easy is it to get help from neighbors for emergency situations?</string>
+<string name="social_capital_item_6a2">In your village/ward, how easy is it to get help from neighbors for daily chores?</string>
+<string name="social_capital_item_6a3">In your village/ward, how easy is it to get help from neighbors for elder care?</string>
+<string name="social_capital_item_6b">Do you know of instances where community members have helped elderly people in need?</string>
+<string name="social_capital_item_7a">People in this community can work together to improve things</string>
+<string name="social_capital_item_7b">Community members have the power to influence local decisions</string>
+<string name="social_capital_item_8a">Do you use WhatsApp or other messaging apps to stay connected with family/friends?</string>
+<string name="social_capital_item_8b">Through digital means, how often do you get support or information about health services?</string>
+<string name="social_capital_item_8c">Through digital means, how often do you get support or information about government schemes?</string>
+
+<!-- Social Capital Options -->
+<string name="social_capital_opt_1">Most people can be trusted / A lot / Daily / Very high / Very easy / Yes, frequently / Strongly agree / Yes, daily</string>
+<string name="social_capital_opt_2">Need to be very careful / Somewhat / Weekly / High / Easy / Yes, sometimes / Agree / Yes, weekly</string>
+<string name="social_capital_opt_3">Don't know / Not very much / Monthly / Moderate / Difficult / Rarely / Disagree / Yes, occasionally</string>
+<string name="social_capital_opt_4">Not at all / Few times a year / Low / Very difficult / Never / Strongly disagree / No</string>
+</resources>

@@ -1,0 +1,16 @@
+{
+  "lang": "kn",
+  "version": 1,
+  "modules": [
+    {
+      "module_id": "fall_prevention_basic",
+      "title": "ಜಾರಿ ಬೀಳುವುದನ್ನು ತಡೆಯುವುದು (ಮೂಲಭೂತ)",
+      "duration_min": 20
+    },
+    {
+      "module_id": "chair_yoga",
+      "title": "ಕುರ್ಚಿ ಯೋಗ",
+      "duration_min": 15
+    }
+  ]
+}

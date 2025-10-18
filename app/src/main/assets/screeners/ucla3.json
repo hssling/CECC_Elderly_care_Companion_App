@@ -1,0 +1,57 @@
+{
+  "id": "ucla3",
+  "title": "UCLA Loneliness Scale (3-item)",
+  "items": [
+    {
+      "id": "q1",
+      "text_key": "ucla3_item_1",
+      "reverse": true
+    },
+    {
+      "id": "q2",
+      "text_key": "ucla3_item_2",
+      "reverse": false
+    },
+    {
+      "id": "q3",
+      "text_key": "ucla3_item_3",
+      "reverse": false
+    }
+  ],
+  "options": [
+    {
+      "id": "opt1",
+      "label_key": "ucla_opt_1",
+      "score": 1
+    },
+    {
+      "id": "opt2",
+      "label_key": "ucla_opt_2",
+      "score": 2
+    },
+    {
+      "id": "opt3",
+      "label_key": "ucla_opt_3",
+      "score": 3
+    },
+    {
+      "id": "opt4",
+      "label_key": "ucla_opt_4",
+      "score": 4
+    }
+  ],
+  "scoring": {
+    "bands": [
+      {
+        "min": 3,
+        "max": 6,
+        "label": "Low"
+      },
+      {
+        "min": 7,
+        "max": 12,
+        "label": "High"
+      }
+    ]
+  }
+}

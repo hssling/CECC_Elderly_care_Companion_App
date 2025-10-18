@@ -1,0 +1,241 @@
+<resources>
+<string name="app_name">केयर कंपैनियन</string>
+<string name="navigation_home">होम</string>
+<string name="navigation_tools">टूल्स</string>
+<string name="navigation_forms">फॉर्म्स</string>
+<string name="navigation_help">मदद</string>
+<string name="navigation_learn">सीखें</string>
+<string name="navigation_sessions">सत्र</string>
+<string name="consent_title">सहमति और गोपनीयता</string>
+<string name="consent_text">इस ऐप का उपयोग करके, आप शोध उद्देश्यों के लिए मूल्यांकन डेटा के संग्रह और भंडारण से सहमत हैं। सभी डेटा गोपनीय रखा जाता है और केवल वरिष्ठ नागरिक देखभाल सहायता कार्यक्रमों के लिए उपयोग किया जाता है। आप किसी भी समय डेटा विलोपन का अनुरोध कर सकते हैं।</string>
+<string name="privacy_title">गोपनीयता नीति</string>
+<string name="privacy_text">हम केवल वरिष्ठ नागरिक देखभाल सहायता प्रदान करने के लिए आवश्यक मूल्यांकन डेटा एकत्र करते हैं। डेटा आपके डिवाइस पर स्थानीय रूप से संग्रहीत किया जाता है और वैकल्पिक रूप से सुरक्षित क्लाउड भंडारण में सिंक किया जाता है। हम आपकी सहमति के बिना तीसरे पक्ष के साथ व्यक्तिगत जानकारी साझा नहीं करते हैं।</string>
+<string name="staff_pin_title">कर्मचारी पहुंच</string>
+<string name="staff_pin_hint">पिन दर्ज करें</string>
+<string name="biometric_prompt">कर्मचारी सुविधाओं तक पहुंच के लिए प्रमाणित करें</string>
+<string name="sync_title">डेटा सिंक</string>
+<string name="sync_status">सिंक स्थिति</string>
+<string name="sync_now">अभी सिंक करें</string>
+<string name="last_sync">अंतिम सिंक</string>
+<string name="never_synced">कभी सिंक नहीं किया गया</string>
+<string name="uploading">अपलोड हो रहा है...</string>
+<string name="upload_success">अपलोड सफल</string>
+<string name="upload_failed">अपलोड विफल</string>
+<string name="choose_folder">फोल्डर चुनें</string>
+<string name="drive_folder">गूगल ड्राइव फोल्डर</string>
+<string name="select_drive_folder">गूगल ड्राइव फोल्डर चुनें</string>
+<string name="folder_selected">फोल्डर चुना गया</string>
+<string name="no_folder_selected">कोई फोल्डर नहीं चुना गया</string>
+<string name="offline_content">ऑफलाइन सामग्री</string>
+<string name="download_content">सामग्री डाउनलोड करें</string>
+<string name="content_downloaded">सामग्री डाउनलोड की गई</string>
+<string name="download_failed">डाउनलोड विफल</string>
+<string name="language_pack">भाषा पैक</string>
+<string name="download_language_pack">भाषा पैक डाउनलोड करें</string>
+<string name="language_pack_downloaded">भाषा पैक डाउनलोड किया गया</string>
+<string name="no_internet">कोई इंटरनेट कनेक्शन नहीं</string>
+<string name="retry">पुनः प्रयास करें</string>
+<string name="cancel">रद्द करें</string>
+<string name="ok">ठीक है</string>
+<string name="yes">हाँ</string>
+<string name="no">नहीं</string>
+<string name="save">सहेजें</string>
+<string name="submit">सबमिट करें</string>
+<string name="next">अगला</string>
+<string name="previous">पिछला</string>
+<string name="finish">समाप्त</string>
+<string name="loading">लोड हो रहा है...</string>
+<string name="error">त्रुटि</string>
+<string name="success">सफलता</string>
+<string name="warning">चेतावनी</string>
+<string name="info">जानकारी</string>
+<string name="settings">सेटिंग्स</string>
+<string name="about">बारे में</string>
+<string name="version">संस्करण</string>
+<string name="license">MIT लाइसेंस</string>
+<string name="developed_by">CECC टीम द्वारा विकसित</string>
+<string name="contact">संपर्क</string>
+<string name="feedback">प्रतिक्रिया</string>
+<string name="rate_app">ऐप रेट करें</string>
+<string name="share_app">ऐप साझा करें</string>
+<string name="exit">बाहर निकलें</string>
+
+<!-- Screener Questions - Hindi Translations -->
+
+<!-- UCLA-3 Items -->
+<string name="ucla3_item_1">आपके आसपास के लोगों के साथ आप कितनी बार \"तालमेल\" महसूस करते हैं?</string>
+<string name="ucla3_item_2">आप कितनी बार साथी की कमी महसूस करते हैं?</string>
+<string name="ucla3_item_3">आप कितनी बार महसूस करते हैं कि आपकी मदद करने वाला कोई नहीं है?</string>
+
+<!-- GDS-15 Items -->
+<string name="gds15_item_1">क्या आप मूल रूप से अपने जीवन से संतुष्ट हैं?</string>
+<string name="gds15_item_2">क्या आपने अपनी कई गतिविधियों और रुचियों को छोड़ दिया है?</string>
+<string name="gds15_item_3">क्या आपको लगता है कि आपका जीवन खाली है?</string>
+<string name="gds15_item_4">क्या आप अक्सर ऊब जाते हैं?</string>
+<string name="gds15_item_5">क्या आप अधिकांश समय अच्छी आत्माओं में हैं?</string>
+<string name="gds15_item_6">क्या आपको डर है कि आपके साथ कुछ बुरा होने वाला है?</string>
+<string name="gds15_item_7">क्या आप अधिकांश समय खुश महसूस करते हैं?</string>
+<string name="gds15_item_8">क्या आप अक्सर असहाय महसूस करते हैं?</string>
+<string name="gds15_item_9">क्या आप घर पर रहना पसंद करते हैं, बजाय बाहर जाकर नई चीजें करने के?</string>
+<string name="gds15_item_10">क्या आपको लगता है कि आपको अधिकांश लोगों की तुलना में याददाश्त की अधिक समस्याएं हैं?</string>
+<string name="gds15_item_11">क्या आपको लगता है कि अभी जीवित रहना अद्भुत है?</string>
+<string name="gds15_item_12">क्या आपको लगता है कि आप जैसा अभी हैं वैसा ही काफी बेकार हैं?</string>
+<string name="gds15_item_13">क्या आप ऊर्जा से भरे महसूस करते हैं?</string>
+<string name="gds15_item_14">क्या आपको लगता है कि आपकी स्थिति निराशाजनक है?</string>
+<string name="gds15_item_15">क्या आपको लगता है कि अधिकांश लोग आपसे बेहतर हैं?</string>
+
+<!-- Zarit-12 Items -->
+<string name="zarit12_item_1">क्या आपको लगता है कि आपका रिश्तेदार जितनी मदद की जरूरत है उससे अधिक मदद मांगता है?</string>
+<string name="zarit12_item_2">क्या आपको लगता है कि आपने अपने रिश्तेदार के साथ जितना समय बिताया है उसकी वजह से आपके पास अपने लिए पर्याप्त समय नहीं है?</string>
+<string name="zarit12_item_3">क्या आपको लगता है कि अपने रिश्तेदार की देखभाल करने और अन्य जिम्मेदारियों को पूरा करने के बीच आप तनावग्रस्त हैं?</string>
+<string name="zarit12_item_4">क्या आपको अपने रिश्तेदार के व्यवहार पर शर्मिंदगी महसूस होती है?</string>
+<string name="zarit12_item_5">क्या आप अपने रिश्तेदार के आसपास होने पर गुस्सा महसूस करते हैं?</string>
+<string name="zarit12_item_6">क्या आपको लगता है कि आपका रिश्तेदार आपके परिवार और दोस्तों के साथ आपके रिश्ते को नकारात्मक तरीके से प्रभावित करता है?</string>
+<string name="zarit12_item_7">क्या आपको अपने रिश्तेदार के भविष्य को लेकर डर है?</string>
+<string name="zarit12_item_8">क्या आपको लगता है कि आपका रिश्तेदार आप पर निर्भर है?</string>
+<string name="zarit12_item_9">क्या आप अपने रिश्तेदार के आसपास होने पर तनावग्रस्त महसूस करते हैं?</string>
+<string name="zarit12_item_10">क्या आपको लगता है कि आपके रिश्तेदार की देखभाल की वजह से आपका स्वास्थ्य प्रभावित हुआ है?</string>
+<string name="zarit12_item_11">क्या आपको लगता है कि आपके रिश्तेदार की वजह से आपके पास जितनी गोपनीयता चाहिए उतनी नहीं है?</string>
+<string name="zarit12_item_12">क्या आपको लगता है कि आपके रिश्तेदार की देखभाल की वजह से आपका सामाजिक जीवन प्रभावित हुआ है?</string>
+
+<!-- PSS-10 Items -->
+<string name="pss10_item_1">पिछले महीने में, आप कितनी बार अप्रत्याशित रूप से हुई किसी बात की वजह से परेशान हुए हैं?</string>
+<string name="pss10_item_2">पिछले महीने में, आप कितनी बार महसूस करते हैं कि आप अपने जीवन की महत्वपूर्ण बातों को नियंत्रित नहीं कर पा रहे हैं?</string>
+<string name="pss10_item_3">पिछले महीने में, आप कितनी बार घबरा गए हैं और \"तनावग्रस्त\" महसूस करते हैं?</string>
+<string name="pss10_item_4">पिछले महीने में, आप कितनी बार अपनी व्यक्तिगत समस्याओं को संभालने की अपनी क्षमता के बारे में आश्वस्त महसूस करते हैं?</string>
+<string name="pss10_item_5">पिछले महीने में, आप कितनी बार महसूस करते हैं कि चीजें आपके अनुसार हो रही हैं?</string>
+<string name="pss10_item_6">पिछले महीने में, आप कितनी बार पाते हैं कि आप जो कुछ भी करना है उस सबको संभाल नहीं पा रहे हैं?</string>
+<string name="pss10_item_7">पिछले महीने में, आप कितनी बार अपने जीवन की जलन को नियंत्रित कर पाते हैं?</string>
+<string name="pss10_item_8">पिछले महीने में, आप कितनी बार महसूस करते हैं कि आप चीजों पर नियंत्रण रखते हैं?</string>
+<string name="pss10_item_9">पिछले महीने में, आप कितनी बार ऐसी बातों की वजह से गुस्सा होते हैं जो आपके नियंत्रण में नहीं हैं?</string>
+<string name="pss10_item_10">पिछले महीने में, आप कितनी बार महसूस करते हैं कि कठिनाइयां इतनी अधिक हो गई हैं कि आप उन्हें पार नहीं कर सकते?</string>
+
+<!-- ADL/IADL Items -->
+<string name="adl_iadl_item_1">नहाना</string>
+<string name="adl_iadl_item_2">कपड़े पहनना</string>
+<string name="adl_iadl_item_3">शौचालय जाना</string>
+<string name="adl_iadl_item_4">बिस्तर से उठना/बैठना</string>
+<string name="adl_iadl_item_5">मल-मूत्र असंयम</string>
+<string name="adl_iadl_item_6">खाना खाना</string>
+<string name="adl_iadl_item_7">टेलीफोन का उपयोग</string>
+<string name="adl_iadl_item_8">दवाओं का प्रबंधन</string>
+
+<!-- DUKE-UNC Items -->
+<string name="duke_unc_item_1">क्या कोई आपको घर पर मिलने आता है?</string>
+<string name="duke_unc_item_2">क्या आपके पास कोई ऐसा है जो आपको प्यार और स्नेह दिखाता है?</string>
+<string name="duke_unc_item_3">क्या आपके पास कोई ऐसा उपलब्ध है जिससे आप बात कर सकें जब आपको बात करने की जरूरत हो?</string>
+<string name="duke_unc_item_4">क्या आपके पास कोई ऐसा उपलब्ध है जो आपको किसी समस्या के बारे में अच्छी सलाह दे सके?</string>
+<string name="duke_unc_item_5">क्या आपके पास कोई ऐसा उपलब्ध है जो आपको प्यार और स्नेह दिखाता है?</string>
+<string name="duke_unc_item_6">क्या आप किसी पर भरोसा कर सकते हैं जो आपको भावनात्मक सहारा दे सके (समस्याओं पर बात करना या कठिन निर्णय लेने में मदद करना)?</string>
+<string name="duke_unc_item_7">क्या आपके पास उतना संपर्क है जितना आप चाहते हैं किसी ऐसे व्यक्ति के साथ जिसके आप करीब महसूस करते हैं, किसी ऐसे जिससे आप अपनी बातें कह सकें?</string>
+<string name="duke_unc_item_8">क्या आपके पास कोई ऐसा है जो आपको प्यार और देखभाल का एहसास कराता है?</string>
+
+<!-- WHOQOL-OLD Items -->
+<string name="whoqol_item_1">आप अपने जीवन को कितना सार्थक मानते हैं?</string>
+<string name="whoqol_item_2">आप कितनी अच्छी तरह ध्यान केंद्रित कर पाते हैं?</string>
+<string name="whoqol_item_3">आपका भौतिक वातावरण कितना स्वस्थ है?</string>
+<string name="whoqol_item_4">आप अपने व्यक्तिगत रिश्तों से कितने संतुष्ट हैं?</string>
+<string name="whoqol_item_5">क्या आपको लगता है कि शारीरिक दर्द आपको वह करने से रोकता है जो आपको करने की जरूरत है?</string>
+<string name="whoqol_item_6">आपको अपने दैनिक जीवन में कार्य करने के लिए कितनी चिकित्सा उपचार की जरूरत है?</string>
+<string name="whoqol_item_7">आप जीवन का कितना आनंद लेते हैं?</string>
+<string name="whoqol_item_8">क्या आपको लगता है कि आपका जीवन सार्थक है?</string>
+<string name="whoqol_item_9">आप अपने शारीरिक रूप को स्वीकार करने में कितनी अच्छी तरह सक्षम हैं?</string>
+<string name="whoqol_item_10">आप अपने यौन जीवन से कितने संतुष्ट हैं?</string>
+<string name="whoqol_item_11">आप अपने दोस्तों से मिलने वाले सहारे से कितने संतुष्ट हैं?</string>
+<string name="whoqol_item_12">आप अपनी रहने की स्थिति से कितने संतुष्ट हैं?</string>
+<string name="whoqol_item_13">आप अपनी दैनिक जीवन की गतिविधियों को करने में कितनी अच्छी तरह सक्षम हैं?</string>
+<string name="whoqol_item_14">आप अपने आप से कितने संतुष्ट हैं?</string>
+<string name="whoqol_item_15">आप अपनी कार्य क्षमता से कितने संतुष्ट हैं?</string>
+<string name="whoqol_item_16">क्या आपको किसी बीमारी, दर्द, असुविधा, या इलाज के दुष्प्रभाव से कितनी परेशानी होती है?</string>
+
+<!-- Social Capital Items -->
+<string name="social_capital_item_1a">आम तौर पर, आप क्या कहेंगे कि अधिकांश लोगों पर भरोसा किया जा सकता है या लोगों के साथ व्यवहार करते समय बहुत सावधान रहना चाहिए?</string>
+<string name="social_capital_item_1b">आप अपने पड़ोसियों पर कितना भरोसा करते हैं?</string>
+<string name="social_capital_item_1c">आप अपने गांव/वार्ड के लोगों पर कितना भरोसा करते हैं?</string>
+<string name="social_capital_item_2a">आपके पास कितने करीबी दोस्त हैं जिन पर आप जरूरत के समय भरोसा कर सकते हैं?</string>
+<string name="social_capital_item_2b">आपके घर के बाहर कितने रिश्तेदारों के साथ आपका नियमित संपर्क है?</string>
+<string name="social_capital_item_2c">पिछले महीने में, आपने सामुदायिक बैठकों/कार्यक्रमों में कितनी बार भाग लिया है?</string>
+<string name="social_capital_item_3a">क्या आप किसी स्थानीय समूह या संगठन के सदस्य हैं?</string>
+<string name="social_capital_item_3b">पिछले साल में, क्या आपने सामुदायिक गतिविधियों के लिए अपना समय स्वयंसेवा किया है?</string>
+<string name="social_capital_item_3c">क्या आप गांव/वार्ड विकास गतिविधियों में भाग लेते हैं?</string>
+<string name="social_capital_item_4a">इस गांव/वार्ड के लोग अपने पड़ोसियों की मदद करने को तैयार हैं</string>
+<string name="social_capital_item_4b">इस गांव/वार्ड के लोग आम तौर पर एक-दूसरे के साथ अच्छी तरह से रहते हैं</string>
+<string name="social_capital_item_4c">इस गांव/वार्ड के लोगों पर भरोसा किया जा सकता है कि वे अपने वादे निभाएंगे</string>
+<string name="social_capital_item_5a">आप स्थानीय कार्यक्रमों में सामुदायिक भागीदारी के स्तर को कैसे оценивают?</string>
+<string name="social_capital_item_5b">क्या आपके समुदाय में ऐसे औपचारिक या अनौपचारिक नेता हैं जो विवादों को सुलझाने में मदद करते हैं?</string>
+<string name="social_capital_item_5c">समुदाय के सदस्य स्थानीय समस्याओं को हल करने के लिए कितनी बार साथ मिलकर काम करते हैं?</string>
+<string name="social_capital_item_6a1">आपके गांव/वार्ड में, आपात स्थिति के लिए पड़ोसियों से मदद पाना कितना आसान है?</string>
+<string name="social_capital_item_6a2">आपके गांव/वार्ड में, दैनिक कामों के लिए पड़ोसियों से मदद पाना कितना आसान है?</string>
+<string name="social_capital_item_6a3">आपके गांव/वार्ड में, वृद्ध देखभाल के लिए पड़ोसियों से मदद पाना कितना आसान है?</string>
+<string name="social_capital_item_6b">क्या आपको ऐसे उदाहरण पता हैं जहां सामुदायिक सदस्यों ने जरूरतमंद वृद्ध लोगों की मदद की है?</string>
+<string name="social_capital_item_7a">इस समुदाय के लोग चीजों को बेहतर बनाने के लिए साथ मिलकर काम कर सकते हैं</string>
+<string name="social_capital_item_7b">समुदाय के सदस्य स्थानीय निर्णयों को प्रभावित करने की शक्ति रखते हैं</string>
+<string name="social_capital_item_8a">क्या आप WhatsApp या अन्य संदेशवाहक ऐप्स का उपयोग परिवार/दोस्तों के साथ जुड़े रहने के लिए करते हैं?</string>
+<string name="social_capital_item_8b">डिजिटल माध्यमों के जरिए, आपको स्वास्थ्य सेवाओं के बारे में कितनी बार सहारा या जानकारी मिलती है?</string>
+<string name="social_capital_item_8c">डिजिटल माध्यमों के जरिए, आपको सरकारी योजनाओं के बारे में कितनी बार सहारा या जानकारी मिलती है?</string>
+
+<!-- Response Options - Hindi -->
+
+<!-- Common Options -->
+<string name="opt_1">कभी नहीं</string>
+<string name="opt_2">कभी-कभी</string>
+<string name="opt_3">अक्सर</string>
+<string name="opt_yes">हाँ</string>
+<string name="opt_no">नहीं</string>
+<string name="opt_dependent">निर्भर</string>
+<string name="opt_independent">स्वतंत्र</string>
+<string name="opt_needs_help">मदद की जरूरत</string>
+<string name="strongly_disagree">मजबूती से असहमत</string>
+<string name="disagree">असहमत</string>
+<string name="neutral">तटस्थ</string>
+<string name="agree">सहमत</string>
+<string name="strongly_agree">मजबूती से सहमत</string>
+
+<!-- UCLA Options -->
+<string name="ucla_opt_1">कभी नहीं</string>
+<string name="ucla_opt_2">शायद ही कभी</string>
+<string name="ucla_opt_3">कभी-कभी</string>
+<string name="ucla_opt_4">अक्सर</string>
+
+<!-- GDS Options -->
+<string name="gds_opt_yes">हाँ</string>
+<string name="gds_opt_no">नहीं</string>
+
+<!-- Zarit Options -->
+<string name="zarit_opt_0">कभी नहीं</string>
+<string name="zarit_opt_1">शायद ही कभी</string>
+<string name="zarit_opt_2">कभी-कभी</string>
+<string name="zarit_opt_3">काफी बार</string>
+<string name="zarit_opt_4">लगभग हमेशा</string>
+
+<!-- PSS Options -->
+<string name="pss_opt_0">कभी नहीं</string>
+<string name="pss_opt_1">लगभग कभी नहीं</string>
+<string name="pss_opt_2">कभी-कभी</string>
+<string name="pss_opt_3">काफी बार</string>
+<string name="pss_opt_4">बहुत बार</string>
+
+<!-- ADL Options -->
+<string name="adl_opt_independent">स्वतंत्र</string>
+<string name="adl_opt_dependent">निर्भर</string>
+
+<!-- DUKE Options -->
+<string name="duke_opt_1">मैं जितना चाहता हूं उससे बहुत कम</string>
+<string name="duke_opt_2">मैं जितना चाहता हूं उससे कम</string>
+<string name="duke_opt_3">मैं जितना चाहता हूं लगभग उतना ही</string>
+<string name="duke_opt_4">मैं जितना चाहता हूं उससे अधिक</string>
+<string name="duke_opt_5">मैं जितना चाहता हूं उससे बहुत अधिक</string>
+
+<!-- WHOQOL-OLD Options -->
+<string name="whoqol_opt_1">बिल्कुल नहीं / बहुत असंतुष्ट / बहुत खराब</string>
+<string name="whoqol_opt_2">थोड़ा / असंतुष्ट / खराब</string>
+<string name="whoqol_opt_3">मध्यम मात्रा / न तो संतुष्ट न असंतुष्ट / न तो अच्छा न खराब</string>
+<string name="whoqol_opt_4">बहुत / संतुष्ट / अच्छा</string>
+<string name="whoqol_opt_5">अत्यधिक मात्रा / बहुत संतुष्ट / बहुत अच्छा</string>
+
+<!-- Social Capital Options -->
+<string name="social_capital_opt_1">अधिकांश लोगों पर भरोसा किया जा सकता है / बहुत / दैनिक / बहुत उच्च / बहुत आसान / हाँ, बार-बार / मजबूती से सहमत / हाँ, दैनिक</string>
+<string name="social_capital_opt_2">बहुत सावधान रहना चाहिए / कुछ हद तक / साप्ताहिक / उच्च / आसान / हाँ, कभी-कभी / सहमत / हाँ, साप्ताहिक</string>
+<string name="social_capital_opt_3">पता नहीं / बहुत कम नहीं / मासिक / मध्यम / कठिन / शायद ही कभी / असहमत / हाँ, कभी-कभी</string>
+<string name="social_capital_opt_4">बिल्कुल नहीं / साल में कुछ बार / कम / बहुत कठिन / कभी नहीं / मजबूती से असहमत / नहीं</string>
+</resources>

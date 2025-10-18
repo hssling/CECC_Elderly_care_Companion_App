@@ -1,0 +1,82 @@
+{
+  "id": "adl_iadl",
+  "title": "ADL/IADL Functional Assessment",
+  "items": [
+    {
+      "id": "adl1",
+      "text_key": "adl_iadl_item_1",
+      "reverse": false
+    },
+    {
+      "id": "adl2",
+      "text_key": "adl_iadl_item_2",
+      "reverse": false
+    },
+    {
+      "id": "adl3",
+      "text_key": "adl_iadl_item_3",
+      "reverse": false
+    },
+    {
+      "id": "adl4",
+      "text_key": "adl_iadl_item_4",
+      "reverse": false
+    },
+    {
+      "id": "adl5",
+      "text_key": "adl_iadl_item_5",
+      "reverse": false
+    },
+    {
+      "id": "adl6",
+      "text_key": "adl_iadl_item_6",
+      "reverse": false
+    },
+    {
+      "id": "iadl1",
+      "text_key": "adl_iadl_item_7",
+      "reverse": false
+    },
+    {
+      "id": "iadl2",
+      "text_key": "adl_iadl_item_8",
+      "reverse": false
+    }
+  ],
+  "options": [
+    {
+      "id": "opt_independent",
+      "label_key": "adl_opt_independent",
+      "score": 1
+    },
+    {
+      "id": "opt_dependent",
+      "label_key": "adl_opt_dependent",
+      "score": 0
+    }
+  ],
+  "scoring": {
+    "bands": [
+      {
+        "min": 0,
+        "max": 2,
+        "label": "Severe dependence"
+      },
+      {
+        "min": 3,
+        "max": 4,
+        "label": "Moderate dependence"
+      },
+      {
+        "min": 5,
+        "max": 6,
+        "label": "Mild dependence"
+      },
+      {
+        "min": 7,
+        "max": 8,
+        "label": "Independent"
+      }
+    ]
+  }
+}

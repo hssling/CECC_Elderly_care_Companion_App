@@ -1,0 +1,87 @@
+{
+  "id": "duke_unc",
+  "title": "DUKE-UNC Functional Social Support",
+  "items": [
+    {
+      "id": "q1",
+      "text_key": "duke_unc_item_1",
+      "reverse": false
+    },
+    {
+      "id": "q2",
+      "text_key": "duke_unc_item_2",
+      "reverse": false
+    },
+    {
+      "id": "q3",
+      "text_key": "duke_unc_item_3",
+      "reverse": false
+    },
+    {
+      "id": "q4",
+      "text_key": "duke_unc_item_4",
+      "reverse": false
+    },
+    {
+      "id": "q5",
+      "text_key": "duke_unc_item_5",
+      "reverse": false
+    },
+    {
+      "id": "q6",
+      "text_key": "duke_unc_item_6",
+      "reverse": false
+    },
+    {
+      "id": "q7",
+      "text_key": "duke_unc_item_7",
+      "reverse": false
+    },
+    {
+      "id": "q8",
+      "text_key": "duke_unc_item_8",
+      "reverse": false
+    }
+  ],
+  "options": [
+    {
+      "id": "opt1",
+      "label_key": "duke_opt_1",
+      "score": 1
+    },
+    {
+      "id": "opt2",
+      "label_key": "duke_opt_2",
+      "score": 2
+    },
+    {
+      "id": "opt3",
+      "label_key": "duke_opt_3",
+      "score": 3
+    },
+    {
+      "id": "opt4",
+      "label_key": "duke_opt_4",
+      "score": 4
+    },
+    {
+      "id": "opt5",
+      "label_key": "duke_opt_5",
+      "score": 5
+    }
+  ],
+  "scoring": {
+    "bands": [
+      {
+        "min": 8,
+        "max": 19,
+        "label": "Low social support"
+      },
+      {
+        "min": 20,
+        "max": 40,
+        "label": "Adequate social support"
+      }
+    ]
+  }
+}

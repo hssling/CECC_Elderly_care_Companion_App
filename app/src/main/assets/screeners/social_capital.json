@@ -1,0 +1,167 @@
+{
+  "id": "social_capital",
+  "title": "Social Capital Assessment",
+  "items": [
+    {
+      "id": "q1a",
+      "text_key": "social_capital_item_1a",
+      "reverse": false
+    },
+    {
+      "id": "q1b",
+      "text_key": "social_capital_item_1b",
+      "reverse": false
+    },
+    {
+      "id": "q1c",
+      "text_key": "social_capital_item_1c",
+      "reverse": false
+    },
+    {
+      "id": "q2a",
+      "text_key": "social_capital_item_2a",
+      "reverse": false
+    },
+    {
+      "id": "q2b",
+      "text_key": "social_capital_item_2b",
+      "reverse": false
+    },
+    {
+      "id": "q2c",
+      "text_key": "social_capital_item_2c",
+      "reverse": false
+    },
+    {
+      "id": "q3a",
+      "text_key": "social_capital_item_3a",
+      "reverse": false
+    },
+    {
+      "id": "q3b",
+      "text_key": "social_capital_item_3b",
+      "reverse": false
+    },
+    {
+      "id": "q3c",
+      "text_key": "social_capital_item_3c",
+      "reverse": false
+    },
+    {
+      "id": "q4a",
+      "text_key": "social_capital_item_4a",
+      "reverse": false
+    },
+    {
+      "id": "q4b",
+      "text_key": "social_capital_item_4b",
+      "reverse": false
+    },
+    {
+      "id": "q4c",
+      "text_key": "social_capital_item_4c",
+      "reverse": false
+    },
+    {
+      "id": "q5a",
+      "text_key": "social_capital_item_5a",
+      "reverse": false
+    },
+    {
+      "id": "q5b",
+      "text_key": "social_capital_item_5b",
+      "reverse": false
+    },
+    {
+      "id": "q5c",
+      "text_key": "social_capital_item_5c",
+      "reverse": false
+    },
+    {
+      "id": "q6a1",
+      "text_key": "social_capital_item_6a1",
+      "reverse": false
+    },
+    {
+      "id": "q6a2",
+      "text_key": "social_capital_item_6a2",
+      "reverse": false
+    },
+    {
+      "id": "q6a3",
+      "text_key": "social_capital_item_6a3",
+      "reverse": false
+    },
+    {
+      "id": "q6b",
+      "text_key": "social_capital_item_6b",
+      "reverse": false
+    },
+    {
+      "id": "q7a",
+      "text_key": "social_capital_item_7a",
+      "reverse": false
+    },
+    {
+      "id": "q7b",
+      "text_key": "social_capital_item_7b",
+      "reverse": false
+    },
+    {
+      "id": "q8a",
+      "text_key": "social_capital_item_8a",
+      "reverse": false
+    },
+    {
+      "id": "q8b",
+      "text_key": "social_capital_item_8b",
+      "reverse": false
+    },
+    {
+      "id": "q8c",
+      "text_key": "social_capital_item_8c",
+      "reverse": false
+    }
+  ],
+  "options": [
+    {
+      "id": "opt1",
+      "label_key": "social_capital_opt_1",
+      "score": 1
+    },
+    {
+      "id": "opt2",
+      "label_key": "social_capital_opt_2",
+      "score": 2
+    },
+    {
+      "id": "opt3",
+      "label_key": "social_capital_opt_3",
+      "score": 3
+    },
+    {
+      "id": "opt4",
+      "label_key": "social_capital_opt_4",
+      "score": 4
+    }
+  ],
+  "scoring": {
+    "bands": [
+      {
+        "min": 24,
+        "max": 48,
+        "label": "Low social capital"
+      },
+      {
+        "min": 49,
+        "max": 72,
+        "label": "Moderate social capital"
+      },
+      {
+        "min": 73,
+        "max": 96,
+        "label": "High social capital"
+      }
+    ]
+  }
+}

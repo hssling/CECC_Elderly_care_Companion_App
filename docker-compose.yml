@@ -1,0 +1,25 @@
+version: '3.8'
+
+services:
+  android-dev:
+    build: .
+    container_name: cecc-android-dev
+    volumes:
+      - .:/home/developer/project
+      - gradle_cache:/home/developer/.gradle
+      - android_home:/opt/android-sdk
+    working_dir: /home/developer/project
+    environment:
+      - ANDROID_SDK_ROOT=/opt/android-sdk
+      - ANDROID_HOME=/opt/android-sdk
+      - JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+    ports:
+      - "5554:5554"  # Android emulator port
+      - "5555:5555"  # Android emulator port
+    stdin_open: true
+    tty: true
+    command: tail -f /dev/null  # Keep container running
+
+volumes:
+  gradle_cache:
+  android_home:

@@ -1,0 +1,102 @@
+{
+  "id": "pss10",
+  "title": "Perceived Stress Scale (10-item)",
+  "items": [
+    {
+      "id": "q1",
+      "text_key": "pss10_item_1",
+      "reverse": false
+    },
+    {
+      "id": "q2",
+      "text_key": "pss10_item_2",
+      "reverse": false
+    },
+    {
+      "id": "q3",
+      "text_key": "pss10_item_3",
+      "reverse": false
+    },
+    {
+      "id": "q4",
+      "text_key": "pss10_item_4",
+      "reverse": true
+    },
+    {
+      "id": "q5",
+      "text_key": "pss10_item_5",
+      "reverse": true
+    },
+    {
+      "id": "q6",
+      "text_key": "pss10_item_6",
+      "reverse": false
+    },
+    {
+      "id": "q7",
+      "text_key": "pss10_item_7",
+      "reverse": true
+    },
+    {
+      "id": "q8",
+      "text_key": "pss10_item_8",
+      "reverse": true
+    },
+    {
+      "id": "q9",
+      "text_key": "pss10_item_9",
+      "reverse": false
+    },
+    {
+      "id": "q10",
+      "text_key": "pss10_item_10",
+      "reverse": false
+    }
+  ],
+  "options": [
+    {
+      "id": "opt0",
+      "label_key": "pss_opt_0",
+      "score": 0
+    },
+    {
+      "id": "opt1",
+      "label_key": "pss_opt_1",
+      "score": 1
+    },
+    {
+      "id": "opt2",
+      "label_key": "pss_opt_2",
+      "score": 2
+    },
+    {
+      "id": "opt3",
+      "label_key": "pss_opt_3",
+      "score": 3
+    },
+    {
+      "id": "opt4",
+      "label_key": "pss_opt_4",
+      "score": 4
+    }
+  ],
+  "scoring": {
+    "bands": [
+      {
+        "min": 0,
+        "max": 13,
+        "label": "Low stress"
+      },
+      {
+        "min": 14,
+        "max": 26,
+        "label": "Moderate stress"
+      },
+      {
+        "min": 27,
+        "max": 40,
+        "label": "High stress"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "zarit12",
+  "title": "Zarit Burden Interview (12-item)",
+  "items": [
+    {
+      "id": "q1",
+      "text_key": "zarit12_item_1",
+      "reverse": false
+    },
+    {
+      "id": "q2",
+      "text_key": "zarit12_item_2",
+      "reverse": false
+    },
+    {
+      "id": "q3",
+      "text_key": "zarit12_item_3",
+      "reverse": false
+    },
+    {
+      "id": "q4",
+      "text_key": "zarit12_item_4",
+      "reverse": false
+    },
+    {
+      "id": "q5",
+      "text_key": "zarit12_item_5",
+      "reverse": false
+    },
+    {
+      "id": "q6",
+      "text_key": "zarit12_item_6",
+      "reverse": false
+    },
+    {
+      "id": "q7",
+      "text_key": "zarit12_item_7",
+      "reverse": false
+    },
+    {
+      "id": "q8",
+      "text_key": "zarit12_item_8",
+      "reverse": false
+    },
+    {
+      "id": "q9",
+      "text_key": "zarit12_item_9",
+      "reverse": false
+    },
+    {
+      "id": "q10",
+      "text_key": "zarit12_item_10",
+      "reverse": false
+    },
+    {
+      "id": "q11",
+      "text_key": "zarit12_item_11",
+      "reverse": false
+    },
+    {
+      "id": "q12",
+      "text_key": "zarit12_item_12",
+      "reverse": false
+    }
+  ],
+  "options": [
+    {
+      "id": "opt0",
+      "label_key": "zarit_opt_0",
+      "score": 0
+    },
+    {
+      "id": "opt1",
+      "label_key": "zarit_opt_1",
+      "score": 1
+    },
+    {
+      "id": "opt2",
+      "label_key": "zarit_opt_2",
+      "score": 2
+    },
+    {
+      "id": "opt3",
+      "label_key": "zarit_opt_3",
+      "score": 3
+    },
+    {
+      "id": "opt4",
+      "label_key": "zarit_opt_4",
+      "score": 4
+    }
+  ],
+  "scoring": {
+    "bands": [
+      {
+        "min": 0,
+        "max": 10,
+        "label": "No to minimal burden"
+      },
+      {
+        "min": 11,
+        "max": 20,
+        "label": "Mild to moderate burden"
+      },
+      {
+        "min": 21,
+        "max": 30,
+        "label": "Moderate to severe burden"
+      },
+      {
+        "min": 31,
+        "max": 48,
+        "label": "Severe burden"
+      }
+    ]
+  }
+}

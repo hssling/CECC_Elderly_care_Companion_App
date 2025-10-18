@@ -1,0 +1,241 @@
+<resources>
+<string name="app_name">ಕೇರ್ ಕಂಪ್ಯಾನಿಯನ್</string>
+<string name="navigation_home">ಮುಖ್ಯ ಪುಟ</string>
+<string name="navigation_tools">ಉಪಕರಣಗಳು</string>
+<string name="navigation_forms">ಫಾರ್ಮ್‌ಗಳು</string>
+<string name="navigation_help">ಸಹಾಯ</string>
+<string name="navigation_learn">ಕಲಿ</string>
+<string name="navigation_sessions">ಅಧಿವೇಶನಗಳು</string>
+<string name="consent_title">ಸಮ್ಮತಿ ಮತ್ತು ಗೌಪ್ಯತೆ</string>
+<string name="consent_text">ಈ ಆಪ್ ಬಳಸುವ ಮೂಲಕ, ನೀವು ಸಂಶೋಧನಾ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಮೌಲ್ಯಮಾಪನ ಡೇಟಾದ ಸಂಗ್ರಹಣೆ ಮತ್ತು ಶೇಖರಣೆಗೆ ಸಮ್ಮತಿಸುತ್ತೀರಿ. ಎಲ್ಲಾ ಡೇಟಾವನ್ನು ಗೌಪ್ಯವಾಗಿ ಇರಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಕೇವಲ ಹಿರಿಯ ನಾಗರಿಕ ಆರೈಕೆ ಬೆಂಬಲ ಕಾರ್ಯಕ್ರಮಗಳಿಗಾಗಿ ಮಾತ್ರ ಬಳಸಲಾಗುತ್ತದೆ. ನೀವು ಯಾವಾಗ ಬೇಕಾದರೂ ಡೇಟಾ ಅಳಿಸುವಂತೆ ವಿನಂತಿಸಬಹುದು.</string>
+<string name="privacy_title">ಗೌಪ್ಯತೆ ನೀತಿ</string>
+<string name="privacy_text">ನಾವು ಕೇವಲ ಹಿರಿಯ ನಾಗರಿಕ ಆರೈಕೆ ಬೆಂಬಲ ಒದಗಿಸಲು ಅಗತ್ಯವಿರುವ ಮೌಲ್ಯಮಾಪನ ಡೇಟಾವನ್ನು ಮಾತ್ರ ಸಂಗ್ರಹಿಸುತ್ತೇವೆ. ಡೇಟಾವನ್ನು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಸ್ಥಳೀಯವಾಗಿ ಶೇಖರಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಐಚ್ಛಿಕವಾಗಿ ಸುರಕ್ಷಿತ ಕ್ಲೌಡ್ ಶೇಖರಣೆಗೆ ಸಿಂಕ್ ಮಾಡಲಾಗುತ್ತದೆ. ನಾವು ನಿಮ್ಮ ಸಮ್ಮತವಿಲ್ಲದೆ ತೃತೀಯ ಪಕ್ಷದೊಂದಿಗೆ ವೈಯಕ್ತಿಕ ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದಿಲ್ಲ.</string>
+<string name="staff_pin_title">ಸಿಬ್ಬಂದಿ ಪ್ರವೇಶ</string>
+<string name="staff_pin_hint">ಪಿನ್ ನಮೂದಿಸಿ</string>
+<string name="biometric_prompt">ಸಿಬ್ಬಂದಿ ವೈಶಿಷ್ಟ್ಯಗಳಿಗೆ ಪ್ರವೇಶಿಸಲು ದೃಢೀಕರಿಸಿ</string>
+<string name="sync_title">ಡೇಟಾ ಸಿಂಕ್</string>
+<string name="sync_status">ಸಿಂಕ್ ಸ್ಥಿತಿ</string>
+<string name="sync_now">ಈಗ ಸಿಂಕ್ ಮಾಡಿ</string>
+<string name="last_sync">ಕೊನೆಯ ಸಿಂಕ್</string>
+<string name="never_synced">ಎಂದೂ ಸಿಂಕ್ ಮಾಡಲಾಗಿಲ್ಲ</string>
+<string name="uploading">ಅಪ್‌ಲೋಡ್ ಮಾಡುತ್ತಿದೆ...</string>
+<string name="upload_success">ಅಪ್‌ಲೋಡ್ ಯಶಸ್ವಿಯಾಗಿದೆ</string>
+<string name="upload_failed">ಅಪ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ</string>
+<string name="choose_folder">ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಿ</string>
+<string name="drive_folder">ಗೂಗಲ್ ಡ್ರೈವ್ ಫೋಲ್ಡರ್</string>
+<string name="select_drive_folder">ಗೂಗಲ್ ಡ್ರೈವ್ ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಿ</string>
+<string name="folder_selected">ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</string>
+<string name="no_folder_selected">ಯಾವುದೇ ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಲಾಗಿಲ್ಲ</string>
+<string name="offline_content">ಆಫ್‌ಲೈನ್ ವಿಷಯ</string>
+<string name="download_content">ವಿಷಯ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+<string name="content_downloaded">ವಿಷಯ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ</string>
+<string name="download_failed">ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ</string>
+<string name="language_pack">ಭಾಷಾ ಪ್ಯಾಕ್</string>
+<string name="download_language_pack">ಭಾಷಾ ಪ್ಯಾಕ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
+<string name="language_pack_downloaded">ಭಾಷಾ ಪ್ಯಾಕ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗಿದೆ</string>
+<string name="no_internet">ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕವಿಲ್ಲ</string>
+<string name="retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+<string name="cancel">ರದ್ದುಮಾಡಿ</string>
+<string name="ok">ಸರಿ</string>
+<string name="yes">ಹೌದು</string>
+<string name="no">ಇಲ್ಲ</string>
+<string name="save">ಉಳಿಸಿ</string>
+<string name="submit">ಸಲ್ಲಿಸಿ</string>
+<string name="next">ಮುಂದೆ</string>
+<string name="previous">ಹಿಂದೆ</string>
+<string name="finish">ಮುಗಿಸಿ</string>
+<string name="loading">ಲೋಡ್ ಮಾಡುತ್ತಿದೆ...</string>
+<string name="error">ದೋಷ</string>
+<string name="success">ಯಶಸ್ಸು</string>
+<string name="warning">ಎಚ್ಚರಿಕೆ</string>
+<string name="info">ಮಾಹಿತಿ</string>
+<string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+<string name="about">ಬಗ್ಗೆ</string>
+<string name="version">ಆವೃತ್ತಿ</string>
+<string name="license">MIT ಪರವಾನಗಿ</string>
+<string name="developed_by">CECC ತಂಡದಿಂದ ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾಗಿದೆ</string>
+<string name="contact">ಸಂಪರ್ಕ</string>
+<string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+<string name="rate_app">ಆಪ್ ರೇಟ್ ಮಾಡಿ</string>
+<string name="share_app">ಆಪ್ ಹಂಚಿಕೊಳ್ಳಿ</string>
+<string name="exit">ನಿರ್ಗಮಿಸಿ</string>
+
+<!-- Screener Questions - Kannada Translations -->
+
+<!-- UCLA-3 Items -->
+<string name="ucla3_item_1">ನಿಮ್ಮ ಸುತ್ತಲಿರುವ ಜನರೊಂದಿಗೆ ನೀವು ಎಷ್ಟು ಬಾರಿ \"ಹೊಂದಾಣಿಕೆ\" ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="ucla3_item_2">ನೀವು ಎಷ್ಟು ಬಾರಿ ಸಾಥಿಯ ಕೊರತೆಯನ್ನು ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="ucla3_item_3">ನಿಮಗೆ ಸಹಾಯ ಮಾಡುವವರು ಯಾರೂ ಇಲ್ಲ ಎಂದು ನೀವು ಎಷ್ಟು ಬಾರಿ ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+
+<!-- GDS-15 Items -->
+<string name="gds15_item_1">ನೀವು ಮೂಲಭೂತವಾಗಿ ನಿಮ್ಮ ಜೀವನದಿಂದ ಸಂತುಷ್ಟರಾಗಿದ್ದೀರಾ?</string>
+<string name="gds15_item_2">ನೀವು ನಿಮ್ಮ ಅನೇಕ ಚಟುವಟಿಕೆಗಳು ಮತ್ತು ಆಸಕ್ತಿಗಳನ್ನು ಕೈಬಿಟ್ಟಿದ್ದೀರಾ?</string>
+<string name="gds15_item_3">ನಿಮ್ಮ ಜೀವನವು ಖಾಲಿ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="gds15_item_4">ನೀವು ಹೆಚ್ಚಾಗಿ ಬೇಸರ ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="gds15_item_5">ನೀವು ಹೆಚ್ಚಿನ ಸಮಯದಲ್ಲಿ ಉತ್ತಮ ಮನಸ್ಥಿತಿಯಲ್ಲಿದ್ದೀರಾ?</string>
+<string name="gds15_item_6">ನಿಮಗೆ ಏನಾದರೂ ಕೆಟ್ಟದ್ದು ಸಂಭವಿಸುತ್ತದೆ ಎಂದು ನೀವು ಹೆದರುತ್ತೀರಾ?</string>
+<string name="gds15_item_7">ನೀವು ಹೆಚ್ಚಿನ ಸಮಯದಲ್ಲಿ ಸಂತೋಷವನ್ನು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="gds15_item_8">ನೀವು ಹೆಚ್ಚಾಗಿ ಅಸಹಾಯಕತೆಯನ್ನು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="gds15_item_9">ಹೊಸ ವಿಷಯಗಳನ್ನು ಮಾಡಲು ಹೊರಗೆ ಹೋಗುವ ಬದಲು ಮನೆಯಲ್ಲೇ ಇರಲು ನೀವು ಆದ್ಯತೆ ನೀಡುತ್ತೀರಾ?</string>
+<string name="gds15_item_10">ಹೆಚ್ಚಿನ ಜನರಿಗಿಂತ ನಿಮಗೆ ಸ್ಮೃತಿ ಸಮಸ್ಯೆಗಳು ಹೆಚ್ಚಿದೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="gds15_item_11">ಈಗ ಜೀವಿಸುವುದು ಅದ್ಭುತ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="gds15_item_12">ನೀವು ಈಗ ಇರುವಂತೆಯೇ ನೀವು ತುಂಬಾ ನಿರುಪಯುಕ್ತರಾಗಿದ್ದೀರಿ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="gds15_item_13">ನೀವು ಶಕ್ತಿಯಿಂದ ತುಂಬಿದ ಅನುಭವವನ್ನು ಹೊಂದಿದ್ದೀರಾ?</string>
+<string name="gds15_item_14">ನಿಮ್ಮ ಪರಿಸ್ಥಿತಿಯು ನಿರಾಶಾದಾಯಕವಾಗಿದೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="gds15_item_15">ಹೆಚ್ಚಿನ ಜನರು ನಿಮ್ಮಿಂತಲೂ ಉತ್ತಮವಾಗಿದ್ದಾರೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+
+<!-- Zarit-12 Items -->
+<string name="zarit12_item_1">ನಿಮ್ಮ ಸಂಬಂಧಿಕರು ಅಗತ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಸಹಾಯವನ್ನು ಕೇಳುತ್ತಾರೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_2">ನೀವು ನಿಮ್ಮ ಸಂಬಂಧಿಕರೊಂದಿಗೆ ಕಳೆದ ಸಮಯದಿಂದಾಗಿ ನಿಮಗೆ ನಿಮ್ಮ ಸ್ವಂತ ಸಮಯವಿಲ್ಲ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_3">ನಿಮ್ಮ ಸಂಬಂಧಿಕರ ಆರೈಕೆ ಮತ್ತು ಇತರ ಜವಾಬ್ದಾರಿಗಳನ್ನು ಪೂರೈಸುವ ನಡುವೆ ನೀವು ಒತ್ತಡವನ್ನು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_4">ನಿಮ್ಮ ಸಂಬಂಧಿಕರ ನಡವಳಿಕೆಯಿಂದ ನೀವು ನಾಚಿಕೆ ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_5">ನಿಮ್ಮ ಸಂಬಂಧಿಕರ ಸುತ್ತಲೂ ಇರುವಾಗ ನೀವು ಕೋಪವನ್ನು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_6">ನಿಮ್ಮ ಸಂಬಂಧಿಕರು ನಿಮ್ಮ ಕುಟುಂಬ ಮತ್ತು ಸ್ನೇಹಿತರೊಂದಿಗಿನ ನಿಮ್ಮ ಸಂಬಂಧವನ್ನು ಋಣಾತ್ಮಕವಾಗಿ ಪ್ರಭಾವಿಸುತ್ತಾರೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_7">ನಿಮ್ಮ ಸಂಬಂಧಿಕರ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ನೀವು ಭಯಪಡುತ್ತೀರಾ?</string>
+<string name="zarit12_item_8">ನಿಮ್ಮ ಸಂಬಂಧಿಕರು ನಿಮ್ಮ ಮೇಲೆ ಅವಲಂಬಿತರಾಗಿದ್ದಾರೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_9">ನಿಮ್ಮ ಸಂಬಂಧಿಕರ ಸುತ್ತಲೂ ಇರುವಾಗ ನೀವು ಒತ್ತಡವನ್ನು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_10">ನಿಮ್ಮ ಸಂಬಂಧಿಕರ ಆರೈಕೆಯಿಂದಾಗಿ ನಿಮ್ಮ ಆರೋಗ್ಯವು ಹಾನಿಗೊಳಗಾಗಿದೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_11">ನಿಮ್ಮ ಸಂಬಂಧಿಕರಿಂದಾಗಿ ನೀವು ಬಯಸುವಷ್ಟು ಗೌಪ್ಯತೆ ಇಲ್ಲ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+<string name="zarit12_item_12">ನಿಮ್ಮ ಸಂಬಂಧಿಕರ ಆರೈಕೆಯಿಂದಾಗಿ ನಿಮ್ಮ ಸಾಮಾಜಿಕ ಜೀವನವು ಹಾನಿಗೊಳಗಾಗಿದೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+
+<!-- PSS-10 Items -->
+<string name="pss10_item_1">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ಅನಿರೀಕ್ಷಿತವಾಗಿ ಸಂಭವಿಸಿದ ಯಾವುದೋ ವಿಷಯದಿಂದ ನೀವು ಎಷ್ಟು ಬಾರಿ ಅಸಮಾಧಾನಗೊಂಡಿದ್ದೀರಿ?</string>
+<string name="pss10_item_2">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ನಿಮ್ಮ ಜೀವನದ ಪ್ರಮುಖ ವಿಷಯಗಳನ್ನು ನೀವು ನಿಯಂತ್ರಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ ಎಂದು ನೀವು ಎಷ್ಟು ಬಾರಿ ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="pss10_item_3">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ನೀವು ಎಷ್ಟು ಬಾರಿ ಘಾಬರಿಗೊಂಡಿದ್ದೀರಿ ಮತ್ತು \"ಒತ್ತಡಗೊಂಡಿದ್ದೀರಿ\" ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="pss10_item_4">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಸಮಸ್ಯೆಗಳನ್ನು ನಿಭಾಯಿಸುವ ನಿಮ್ಮ ಸಾಮರ್ಥ್ಯದ ಬಗ್ಗೆ ನೀವು ಎಷ್ಟು ಬಾರಿ ಆತ್ಮವಿಶ್ವಾಸವನ್ನು ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="pss10_item_5">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ವಿಷಯಗಳು ನಿಮ್ಮ ರೀತಿಯಲ್ಲಿ ನಡೆಯುತ್ತಿವೆ ಎಂದು ನೀವು ಎಷ್ಟು ಬಾರಿ ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="pss10_item_6">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ನೀವು ಮಾಡಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ನಿಭಾಯಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ ಎಂದು ನೀವು ಎಷ್ಟು ಬಾರಿ ಕಂಡುಕೊಂಡಿದ್ದೀರಿ?</string>
+<string name="pss10_item_7">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ನಿಮ್ಮ ಜೀವನದ ಕೋಪವನ್ನು ನೀವು ಎಷ್ಟು ಬಾರಿ ನಿಯಂತ್ರಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ?</string>
+<string name="pss10_item_8">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ನೀವು ವಿಷಯಗಳ ಮೇಲೆ ನಿಯಂತ್ರಣವನ್ನು ಹೊಂದಿದ್ದೀರಿ ಎಂದು ನೀವು ಎಷ್ಟು ಬಾರಿ ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="pss10_item_9">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ನಿಮ್ಮ ನಿಯಂತ್ರಣದಲ್ಲಿಲ್ಲದ ವಿಷಯಗಳಿಂದಾಗಿ ನೀವು ಎಷ್ಟು ಬಾರಿ ಕೋಪಗೊಂಡಿದ್ದೀರಿ?</string>
+<string name="pss10_item_10">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ತೊಂದರೆಗಳು ಎಷ್ಟು ಹೆಚ್ಚಾಗಿ ಜಮಾ ಆಗುತ್ತವೆ ಎಂದು ನೀವು ಅವುಗಳನ್ನು ಮೀರಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ ಎಂದು ಅನುಭವಿಸುತ್ತೀರಾ?</string>
+
+<!-- ADL/IADL Items -->
+<string name="adl_iadl_item_1">ಸ್ನಾನ</string>
+<string name="adl_iadl_item_2">ಬಟ್ಟಲು ಧರಿಸುವುದು</string>
+<string name="adl_iadl_item_3">ಶೌಚಾಲಯ ಬಳಸುವುದು</string>
+<string name="adl_iadl_item_4">ಹಾಸಿಗೆಯಿಂದ ಏರಿ/ಕುಳಿತುಕೊಳ್ಳುವುದು</string>
+<string name="adl_iadl_item_5">ಮಲ-ಮೂತ್ರ ಅಸಂಯಮ</string>
+<string name="adl_iadl_item_6">ಊಟ ಮಾಡುವುದು</string>
+<string name="adl_iadl_item_7">ದೂರವಾಣಿ ಬಳಸುವುದು</string>
+<string name="adl_iadl_item_8">ಔಷಧಗಳ ನಿರ್ವಹಣೆ</string>
+
+<!-- DUKE-UNC Items -->
+<string name="duke_unc_item_1">ಯಾರಾದರೂ ನಿಮ್ಮ ಮನೆಗೆ ಭೇಟಿ ನೀಡುತ್ತಾರೆಯೇ?</string>
+<string name="duke_unc_item_2">ನಿಮಗೆ ಪ್ರೀತಿ ಮತ್ತು ಸ್ನೇಹವನ್ನು ತೋರಿಸುವವರು ಯಾರಾದರೂ ಇದ್ದಾರೆಯೇ?</string>
+<string name="duke_unc_item_3">ನೀವು ಮಾತನಾಡಬೇಕಾದಾಗ ಕೇಳಲು ಯಾರಾದರೂ ಲಭ್ಯವಿದ್ದಾರೆಯೇ?</string>
+<string name="duke_unc_item_4">ಸಮಸ್ಯೆಯ ಬಗ್ಗೆ ಉತ್ತಮ ಸಲಹೆ ನೀಡಲು ಯಾರಾದರೂ ಲಭ್ಯವಿದ್ದಾರೆಯೇ?</string>
+<string name="duke_unc_item_5">ನಿಮಗೆ ಪ್ರೀತಿ ಮತ್ತು ಸ್ನೇಹವನ್ನು ತೋರಿಸುವವರು ಯಾರಾದರೂ ಇದ್ದಾರೆಯೇ?</string>
+<string name="duke_unc_item_6">ಸಮಸ್ಯೆಗಳನ್ನು ಚರ್ಚಿಸಲು ಅಥವಾ ಕಠಿಣ ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡಲು ಯಾರನ್ನಾದರೂ ನೀವು ನಂಬಬಹುದೇ?</string>
+<string name="duke_unc_item_7">ನೀವು ಹತ್ತಿರವಾಗಿರುವ ಮತ್ತು ನಂಬುವ ವ್ಯಕ್ತಿಯೊಂದಿಗೆ ನೀವು ಬಯಸುವಷ್ಟು ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿದ್ದೀರಾ?</string>
+<string name="duke_unc_item_8">ನಿಮಗೆ ಪ್ರೀತಿ ಮತ್ತು ಆರೈಕೆಯ ಅನುಭವವನ್ನು ನೀಡುವವರು ಯಾರಾದರೂ ಇದ್ದಾರೆಯೇ?</string>
+
+<!-- WHOQOL-OLD Items -->
+<string name="whoqol_item_1">ನಿಮ್ಮ ಜೀವನವು ಎಷ್ಟು ಅರ್ಥಪೂರ್ಣವಾಗಿದೆ ಎಂದು ನೀವು ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="whoqol_item_2">ನೀವು ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಗಮನ ಕೇಂದ್ರೀಕರಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ?</string>
+<string name="whoqol_item_3">ನಿಮ್ಮ ಭೌತಿಕ ಪರಿಸರವು ಎಷ್ಟು ಆರೋಗ್ಯಕರವಾಗಿದೆ?</string>
+<string name="whoqol_item_4">ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಸಂಬಂಧಗಳಿಂದ ನೀವು ಎಷ್ಟು ಸಂತುಷ್ಟರಾಗಿದ್ದೀರಿ?</string>
+<string name="whoqol_item_5">ಶಾರೀರಿಕ ನೋವು ನೀವು ಮಾಡಬೇಕಾದ ಕೆಲಸವನ್ನು ಮಾಡುವುದನ್ನು ತಡೆಯುತ್ತದೆ ಎಂದು ನೀವು ಎಷ್ಟು ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="whoqol_item_6">ನಿಮ್ಮ ದೈನಂದಿನ ಜೀವನದಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ನಿಮಗೆ ಎಷ್ಟು ವೈದ್ಯಕೀಯ ಚಿಕಿತ್ಸೆಯ ಅಗತ್ಯವಿದೆ?</string>
+<string name="whoqol_item_7">ನೀವು ಜೀವನವನ್ನು ಎಷ್ಟು ಅನಂದಿಸುತ್ತೀರಿ?</string>
+<string name="whoqol_item_8">ನಿಮ್ಮ ಜೀವನವು ಅರ್ಥಪೂರ್ಣವಾಗಿದೆ ಎಂದು ನೀವು ಎಷ್ಟು ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+<string name="whoqol_item_9">ನಿಮ್ಮ ದೇಹದ ರೂಪವನ್ನು ಸ್ವೀಕರಿಸಲು ನೀವು ಎಷ್ಟು ಚೆನ್ನಾಗಿ ಸಾಧ್ಯವಾಗುತ್ತದೆ?</string>
+<string name="whoqol_item_10">ನಿಮ್ಮ ಲೈಂಗಿಕ ಜೀವನದಿಂದ ನೀವು ಎಷ್ಟು ಸಂತುಷ್ಟರಾಗಿದ್ದೀರಿ?</string>
+<string name="whoqol_item_11">ನಿಮ್ಮ ಸ್ನೇಹಿತರಿಂದ ನೀವು ಪಡೆಯುವ ಬೆಂಬಲದಿಂದ ನೀವು ಎಷ್ಟು ಸಂತುಷ್ಟರಾಗಿದ್ದೀರಿ?</string>
+<string name="whoqol_item_12">ನಿಮ್ಮ ವಾಸಸ್ಥಳದಿಂದ ನೀವು ಎಷ್ಟು ಸಂತುಷ್ಟರಾಗಿದ್ದೀರಿ?</string>
+<string name="whoqol_item_13">ನಿಮ್ಮ ದೈನಂದಿನ ಜೀವನದ ಚಟುವಟಿಕೆಗಳನ್ನು ನೀವು ಎಷ್ಟು ಚೆನ್ನಾಗಿ ನಿರ್ವಹಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ?</string>
+<string name="whoqol_item_14">ನೀವು ನಿಮ್ಮ ಬಗ್ಗೆ ಎಷ್ಟು ಸಂತುಷ್ಟರಾಗಿದ್ದೀರಿ?</string>
+<string name="whoqol_item_15">ನಿಮ್ಮ ಕೆಲಸದ ಸಾಮರ್ಥ್ಯದಿಂದ ನೀವು ಎಷ್ಟು ಸಂತುಷ್ಟರಾಗಿದ್ದೀರಿ?</string>
+<string name="whoqol_item_16">ಯಾವುದೇ ಅನಾರೋಗ್ಯ, ನೋವು, ಅಸ್ವಸ್ಥತೆ ಅಥವಾ ಚಿಕಿತ್ಸೆಯ ಅಡ್ಡಪರಿಣಾಮಗಳಿಂದ ನೀವು ಎಷ್ಟು ತೊಂದರೆ ಅನುಭವಿಸುತ್ತೀರಿ?</string>
+
+<!-- Social Capital Items -->
+<string name="social_capital_item_1a">ಸಾಮಾನ್ಯವಾಗಿ ಹೇಳುವುದಾದರೆ, ಹೆಚ್ಚಿನ ಜನರನ್ನು ನಂಬಬಹುದು ಅಥವಾ ಜನರೊಂದಿಗೆ ವ್ಯವಹರಿಸುವಾಗ ತುಂಬಾ ಎಚ್ಚರಿಕೆಯಿಂದ ಇರಬೇಕು ಎಂದು ನೀವು ಹೇಳುತ್ತೀರಾ?</string>
+<string name="social_capital_item_1b">ನಿಮ್ಮ ನೆರೆಹೊರೆಯವರನ್ನು ನೀವು ಎಷ್ಟು ನಂಬುತ್ತೀರಿ?</string>
+<string name="social_capital_item_1c">ನಿಮ್ಮ ಗ್ರಾಮ/ವಾರ್ಡ್‌ನ ಜನರನ್ನು ನೀವು ಎಷ್ಟು ನಂಬುತ್ತೀರಿ?</string>
+<string name="social_capital_item_2a">ಅಗತ್ಯವಿರುವ ಸಮಯದಲ್ಲಿ ನೀವು ನಂಬಬಹುದಾದ ಎಷ್ಟು ಆಪ್ತ ಸ್ನೇಹಿತರು ನಿಮಗಿದ್ದಾರೆ?</string>
+<string name="social_capital_item_2b">ನಿಮ್ಮ ಮನೆಯ ಹೊರಗೆ ನಿಯಮಿತ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿರುವ ಎಷ್ಟು ಸಂಬಂಧಿಕರು ನಿಮಗಿದ್ದಾರೆ?</string>
+<string name="social_capital_item_2c">ಕಳೆದ ತಿಂಗಳಲ್ಲಿ, ಸಮುದಾಯ ಸಭೆಗಳು/ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ ನೀವು ಎಷ್ಟು ಬಾರಿ ಭಾಗವಹಿಸಿದ್ದೀರಿ?</string>
+<string name="social_capital_item_3a">ನೀವು ಯಾವುದೇ ಸ್ಥಳೀಯ ಗುಂಪುಗಳು ಅಥವಾ ಸಂಸ್ಥೆಗಳ ಸದಸ್ಯರಾಗಿದ್ದೀರಾ?</string>
+<string name="social_capital_item_3b">ಕಳೆದ ವರ್ಷದಲ್ಲಿ, ಸಮುದಾಯ ಚಟುವಟಿಕೆಗಳಿಗೆ ನೀವು ನಿಮ್ಮ ಸಮಯವನ್ನು ಸ್ವಯಂಸೇವೆಯಾಗಿ ನೀಡಿದ್ದೀರಾ?</string>
+<string name="social_capital_item_3c">ನೀವು ಗ್ರಾಮ/ವಾರ್ಡ್ ಅಭಿವೃದ್ಧಿ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಭಾಗವಹಿಸುತ್ತೀರಾ?</string>
+<string name="social_capital_item_4a">ಈ ಗ್ರಾಮ/ವಾರ್ಡ್‌ನ ಜನರು ತಮ್ಮ ನೆರೆಹೊರೆಯವರಿಗೆ ಸಹಾಯ ಮಾಡಲು ಸಿದ್ಧರಾಗಿದ್ದಾರೆ</string>
+<string name="social_capital_item_4b">ಈ ಗ್ರಾಮ/ವಾರ್ಡ್‌ನ ಜನರು ಸಾಮಾನ್ಯವಾಗಿ ಪರಸ್ಪರ ಉತ್ತಮವಾಗಿ ಬಾಳುತ್ತಾರೆ</string>
+<string name="social_capital_item_4c">ಈ ಗ್ರಾಮ/ವಾರ್ಡ್‌ನ ಜನರನ್ನು ಅವರು ತಮ್ಮ ಭರವಸೆಗಳನ್ನು ಈಡೇರಿಸುತ್ತಾರೆ ಎಂದು ನಂಬಬಹುದು</string>
+<string name="social_capital_item_5a">ಸ್ಥಳೀಯ ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ ಸಮುದಾಯದ ಭಾಗೀದಾರಿಕೆಯ ಮಟ್ಟವನ್ನು ನೀವು ಹೇಗೆ ರೇಟ್ ಮಾಡುತ್ತೀರಿ?</string>
+<string name="social_capital_item_5b">ನಿಮ್ಮ ಸಮುದಾಯದಲ್ಲಿ ವಿವಾದಗಳನ್ನು ಬಗೆಹರಿಸಲು ಸಹಾಯ ಮಾಡುವ ಔಪಚಾರಿಕ ಅಥವಾ ಅನೌಪಚಾರಿಕ ನಾಯಕರು ಇದ್ದಾರೆಯೇ?</string>
+<string name="social_capital_item_5c">ಸಮುದಾಯದ ಸದಸ್ಯರು ಸ್ಥಳೀಯ ಸಮಸ್ಯೆಗಳನ್ನು ಪರಿಹರಿಸಲು ಎಷ್ಟು ಬಾರಿ ಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತಾರೆ?</string>
+<string name="social_capital_item_6a1">ನಿಮ್ಮ ಗ್ರಾಮ/ವಾರ್ಡ್‌ನಲ್ಲಿ, ತುರ್ತು ಪರಿಸ್ಥಿತಿಗಳಿಗೆ ನೆರೆಹೊರೆಯವರಿಂದ ಸಹಾಯ ಪಡೆಯುವುದು ಎಷ್ಟು ಸುಲಭ?</string>
+<string name="social_capital_item_6a2">ನಿಮ್ಮ ಗ್ರಾಮ/ವಾರ್ಡ್‌ನಲ್ಲಿ, ದೈನಂದಿನ ಕೆಲಸಗಳಿಗೆ ನೆರೆಹೊರೆಯವರಿಂದ ಸಹಾಯ ಪಡೆಯುವುದು ಎಷ್ಟು ಸುಲಭ?</string>
+<string name="social_capital_item_6a3">ನಿಮ್ಮ ಗ್ರಾಮ/ವಾರ್ಡ್‌ನಲ್ಲಿ, ವೃದ್ಧ ಆರೈಕೆಗೆ ನೆರೆಹೊರೆಯವರಿಂದ ಸಹಾಯ ಪಡೆಯುವುದು ಎಷ್ಟು ಸುಲಭ?</string>
+<string name="social_capital_item_6b">ಸಮುದಾಯದ ಸದಸ್ಯರು ಅಗತ್ಯವಿರುವ ವೃದ್ಧರಿಗೆ ಸಹಾಯ ಮಾಡಿದ ಉದಾಹರಣೆಗಳು ನಿಮಗೆ ತಿಳಿದಿವೆಯೇ?</string>
+<string name="social_capital_item_7a">ಈ ಸಮುದಾಯದ ಜನರು ವಿಷಯಗಳನ್ನು ಸುಧಾರಿಸಲು ಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡಬಹುದು</string>
+<string name="social_capital_item_7b">ಸಮುದಾಯದ ಸದಸ್ಯರು ಸ್ಥಳೀಯ ನಿರ್ಧಾರಗಳನ್ನು ಪ್ರಭಾವಿಸುವ ಶಕ್ತಿಯನ್ನು ಹೊಂದಿದ್ದಾರೆ</string>
+<string name="social_capital_item_8a">ಕುಟುಂಬ/ಸ್ನೇಹಿತರೊಂದಿಗೆ ಸಂಪರ್ಕದಲ್ಲಿರಲು ನೀವು WhatsApp ಅಥವಾ ಇತರ ಸಂದೇಶವಾಹಕ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಬಳಸುತ್ತೀರಾ?</string>
+<string name="social_capital_item_8b">ಡಿಜಿಟಲ್ ಮೂಲಕ, ಆರೋಗ್ಯ ಸೇವೆಗಳ ಬಗ್ಗೆ ನೀವು ಎಷ್ಟು ಬಾರಿ ಬೆಂಬಲ ಅಥವಾ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯುತ್ತೀರಿ?</string>
+<string name="social_capital_item_8c">ಡಿಜಿಟಲ್ ಮೂಲಕ, ಸರ್ಕಾರಿ ಯೋಜನೆಗಳ ಬಗ್ಗೆ ನೀವು ಎಷ್ಟು ಬಾರಿ ಬೆಂಬಲ ಅಥವಾ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯುತ್ತೀರಿ?</string>
+
+<!-- Response Options - Kannada -->
+
+<!-- Common Options -->
+<string name="opt_1">ಎಂದೂ ಇಲ್ಲ</string>
+<string name="opt_2">ಕೆಲವೊಮ್ಮೆ</string>
+<string name="opt_3">ಹೆಚ್ಚಾಗಿ</string>
+<string name="opt_yes">ಹೌದು</string>
+<string name="opt_no">ಇಲ್ಲ</string>
+<string name="opt_dependent">ಅವಲಂಬಿತ</string>
+<string name="opt_independent">ಸ್ವತಂತ್ರ</string>
+<string name="opt_needs_help">ಸಹಾಯ ಬೇಕು</string>
+<string name="strongly_disagree">ಬಲವಾಗಿ ಅಸಮ್ಮತಿ</string>
+<string name="disagree">ಅಸಮ್ಮತಿ</string>
+<string name="neutral">ತಟಸ್ಥ</string>
+<string name="agree">ಸಮ್ಮತಿ</string>
+<string name="strongly_agree">ಬಲವಾಗಿ ಸಮ್ಮತಿ</string>
+
+<!-- UCLA Options -->
+<string name="ucla_opt_1">ಎಂದೂ ಇಲ್ಲ</string>
+<string name="ucla_opt_2">ವಿರಳವಾಗಿ</string>
+<string name="ucla_opt_3">ಕೆಲವೊಮ್ಮೆ</string>
+<string name="ucla_opt_4">ಹೆಚ್ಚಾಗಿ</string>
+
+<!-- GDS Options -->
+<string name="gds_opt_yes">ಹೌದು</string>
+<string name="gds_opt_no">ಇಲ್ಲ</string>
+
+<!-- Zarit Options -->
+<string name="zarit_opt_0">ಎಂದೂ ಇಲ್ಲ</string>
+<string name="zarit_opt_1">ವಿರಳವಾಗಿ</string>
+<string name="zarit_opt_2">ಕೆಲವೊಮ್ಮೆ</string>
+<string name="zarit_opt_3">ಸಾಕಷ್ಟು ಬಾರಿ</string>
+<string name="zarit_opt_4">ಬಹುತೇಕ ಯಾವಾಗಲೂ</string>
+
+<!-- PSS Options -->
+<string name="pss_opt_0">ಎಂದೂ ಇಲ್ಲ</string>
+<string name="pss_opt_1">ಬಹುತೇಕ ಎಂದೂ ಇಲ್ಲ</string>
+<string name="pss_opt_2">ಕೆಲವೊಮ್ಮೆ</string>
+<string name="pss_opt_3">ಸಾಕಷ್ಟು ಬಾರಿ</string>
+<string name="pss_opt_4">ತುಂಬಾ ಬಾರಿ</string>
+
+<!-- ADL Options -->
+<string name="adl_opt_independent">ಸ್ವತಂತ್ರ</string>
+<string name="adl_opt_dependent">ಅವಲಂಬಿತ</string>
+
+<!-- DUKE Options -->
+<string name="duke_opt_1">ನಾನು ಬಯಸುವಷ್ಟು ತುಂಬಾ ಕಡಿಮೆ</string>
+<string name="duke_opt_2">ನಾನು ಬಯಸುವಷ್ಟು ಕಡಿಮೆ</string>
+<string name="duke_opt_3">ನಾನು ಬಯಸುವಷ್ಟು ಸುಮಾರು</string>
+<string name="duke_opt_4">ನಾನು ಬಯಸುವಷ್ಟು ಹೆಚ್ಚು</string>
+<string name="duke_opt_5">ನಾನು ಬಯಸುವಷ್ಟು ತುಂಬಾ ಹೆಚ್ಚು</string>
+
+<!-- WHOQOL-OLD Options -->
+<string name="whoqol_opt_1">ಎಲ್ಲವೂ ಇಲ್ಲ / ತುಂಬಾ ಅಸಂತುಷ್ಟ / ತುಂಬಾ ಕೆಟ್ಟ</string>
+<string name="whoqol_opt_2">ಸ್ವಲ್ಪ / ಅಸಂತುಷ್ಟ / ಕೆಟ್ಟ</string>
+<string name="whoqol_opt_3">ಮಧ್ಯಮ ಪ್ರಮಾಣ / ಸಂತುಷ್ಟವೂ ಅಲ್ಲ ಅಸಂತುಷ್ಟವೂ ಅಲ್ಲ / ಒಳ್ಳೆಯದೂ ಅಲ್ಲ ಕೆಟ್ಟದೂ ಅಲ್ಲ</string>
+<string name="whoqol_opt_4">ತುಂಬಾ / ಸಂತುಷ್ಟ / ಒಳ್ಳೆಯದು</string>
+<string name="whoqol_opt_5">ಅತ್ಯಧಿಕ ಪ್ರಮಾಣ / ತುಂಬಾ ಸಂತುಷ್ಟ / ತುಂಬಾ ಒಳ್ಳೆಯದು</string>
+
+<!-- Social Capital Options -->
+<string name="social_capital_opt_1">ಹೆಚ್ಚಿನ ಜನರನ್ನು ನಂಬಬಹುದು / ತುಂಬಾ / ದೈನಂದಿನ / ತುಂಬಾ ಹೆಚ್ಚು / ತುಂಬಾ ಸುಲಭ / ಹೌದು, ಹೆಚ್ಚಾಗಿ / ಬಲವಾಗಿ ಸಮ್ಮತಿ / ಹೌದು, ದೈನಂದಿನ</string>
+<string name="social_capital_opt_2">ತುಂಬಾ ಎಚ್ಚರಿಕೆಯಿಂದ ಇರಬೇಕು / ಕೆಲವು ಮಟ್ಟಿಗೆ / ಸಾಪ್ತಾಹಿಕ / ಹೆಚ್ಚು / ಸುಲಭ / ಹೌದು, ಕೆಲವೊಮ್ಮೆ / ಸಮ್ಮತಿ / ಹೌದು, ಸಾಪ್ತಾಹಿಕ</string>
+<string name="social_capital_opt_3">ತಿಳಿದಿಲ್ಲ / ಅತಿ ಕಡಿಮೆ ಅಲ್ಲ / ಮಾಸಿಕ / ಮಧ್ಯಮ / ಕಷ್ಟ / ವಿರಳವಾಗಿ / ಅಸಮ್ಮತಿ / ಹೌದು, ಕೆಲವೊಮ್ಮೆ</string>
+<string name="social_capital_opt_4">ಎಲ್ಲವೂ ಇಲ್ಲ / ವರ್ಷಕ್ಕೆ ಕೆಲವು ಬಾರಿ / ಕಡಿಮೆ / ತುಂಬಾ ಕಷ್ಟ / ಎಂದೂ ಇಲ್ಲ / ಬಲವಾಗಿ ಅಸಮ್ಮತಿ / ಇಲ್ಲ</string>
+</resources>
